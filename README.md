@@ -1,2 +1,2 @@
-# EtherToDo
-A To-Do Application Using Smart Contracts
+### EthToDo
+A To-Do List Application Using Smart Contracts.
